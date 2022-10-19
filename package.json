@@ -1,5 +1,5 @@
 {
-  "name": "randexp",
+  "name": "aibees-randexp",
   "description": "Create random strings that match a given regular expression.",
   "keywords": [
     "regex",
@@ -8,13 +8,21 @@
     "random",
     "test"
   ],
-  "version": "0.5.3",
-  "homepage": "http://fent.github.io/randexp.js/",
+  "version": "0.1.0",
+  "homepage": "http://shakil-aibees.github.io/aibees-randexp/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/fent/randexp.js.git"
+    "url": "git://github.com/shakil-aibees/aibees-randexp.git"
   },
-  "author": "fent (https://github.com/fent)",
+  "bugs":{
+    "url" : "https://github.com/shakil-aibees/aibees-randexp/issues",
+    "email" :"shakil@ai-bees.io",
+  }
+  "author": {
+    "name" : "Shakil Hossain",
+    "email" : "shakil@ai-bees.io",
+    "url" : "https://github.com/shakil-aibees"
+  },
   "main": "./lib/randexp.js",
   "files": [
     "lib",
